@@ -66,3 +66,5 @@ un répertoire.
 ```
 tsh> size [NOM_REPERTOIRE]
 ```
+# Auteur
+Alexis Chrétien
